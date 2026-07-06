@@ -1,0 +1,15 @@
+# adapter weights — pushed to HuggingFace instead
+grpo-qwen-gsm8k/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+dist/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
