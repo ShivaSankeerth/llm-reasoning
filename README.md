@@ -30,8 +30,8 @@ Config: 8 generations per question, batch size 8, 100 steps, lr 5e-6.
 
 | Model | GSM8K Test Accuracy |
 |-------|-------------------|
-| Base (Qwen2.5-1.5B-Instruct) | ~0%* |
-| + GRPO 100 steps | **TBD** |
+| Base (Qwen2.5-1.5B-Instruct) | 0.0%* |
+| + GRPO 100 steps | **29.2%** |
 
 *Base scores 0% with tag-based extraction since it never uses `<answer>` tags without training.
 
