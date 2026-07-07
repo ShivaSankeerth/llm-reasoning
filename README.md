@@ -6,7 +6,8 @@ Post-training a 1.5B model on grade-school math using GRPO (Group Relative Polic
 
 **Model:** [Qwen/Qwen2.5-1.5B-Instruct](https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct) in 4-bit + LoRA rank 16 (1.18% of weights trained)  
 **Dataset:** [GSM8K](https://huggingface.co/datasets/openai/gsm8k) — 7,473 grade-school math problems  
-**Trained adapter:** [shiva-sankeerth/qwen2.5-1.5b-grpo-gsm8k](https://huggingface.co/shiva-sankeerth/qwen2.5-1.5b-grpo-gsm8k)
+**Trained adapter:** [shiva-sankeerth/qwen2.5-1.5b-grpo-gsm8k](https://huggingface.co/shiva-sankeerth/qwen2.5-1.5b-grpo-gsm8k)  
+**GitHub:** [ShivaSankeerth/llm-reasoning](https://github.com/ShivaSankeerth/llm-reasoning)
 
 ## Rewards
 
